@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212719583609",
+    "firebase_url": "https://nurmuslim-1b0b1.firebaseio.com",
+    "project_id": "nurmuslim-1b0b1",
+    "storage_bucket": "nurmuslim-1b0b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212719583609:android:e5b963febb42680fdd2fa8",
+        "android_client_info": {
+          "package_name": "com.example.nurmuslim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212719583609-dc67hlhngi3mq87a86utc9b3naal63ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nurmuslim",
+            "certificate_hash": "460e7175f2e3331d08e79f0bc106c7c459b701f3"
+          }
+        },
+        {
+          "client_id": "212719583609-gm4d4ampi3ui78pvpaco1e8phqclf1am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeU6bdx-9gt4Ib5-zG2LNI-RO74WqWS4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212719583609-gm4d4ampi3ui78pvpaco1e8phqclf1am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

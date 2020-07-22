@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">nurMuslim</string>
+
+    <string name="aboutme">
+
+      <br> In Malaysia there is a BMF campaign called "Buy Muslim First". This campaign given a huge impact where the Muslim community in Malaysia regardless of race has been trying to get a Muslim-made product on the market. \n</br>
+       <br></br>
+
+        <br>However, there are issues where they are difficult to determine and find a Muslim-made product in the market. Due to these issues, the idea is to develop an application to enable them to find and identify Muslim-made products. \n</br>
+        <br></br>
+
+        <br> In addition, the application also aims to increase the promotion of Islamic-made product, it will indirectly given impact on the economy of Muslims in Malaysia. \n</br>
+
+
+    </string>
+
+    <string name="contactme">
+
+        <br></br>
+        <br>Contact us : \n</br>
+        <br>Developer : NOR ARIF AFIFI BIN NORDIN \n</br>
+        <br>Tel No. : 016-4204298 \n</br>
+
+
+    </string>
+
+    <string name="About">
+
+        <br></br>
+        <br>ABOUT US \n</br>
+        <br>Information about this apps \n</br>
+
+    </string>
+
+    <string name="searchme">
+
+        <br></br>
+        <br>MUSLIM PRODUCT \n</br>
+        <br>Search the detail of Muslim product. \n</br>
+
+    </string>
+
+    <string name="scan">
+
+        <br></br>
+        <br>BARCODE SCANNERS \n</br>
+        <br>Scan the barcode of product to get the detail of product. \n</br>
+
+    </string>
+
+    <string name="locat">
+
+        <br></br>
+        <br> LOCATIONS \n</br>
+        <br> Use to identify locations of supermarket that sell Muslim product. \n</br>
+
+    </string>
+
+    <string name="name">Name:</string>
+    <string name="brand">Brand:</string>
+    <string name="market">Market:</string>
+    <string name="loc">Location:</string>
+    <string name="desc">Desc:</string>
+
+</resources>
